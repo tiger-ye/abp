@@ -41,6 +41,7 @@ $projects = (
     "framework/src/Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared",
     "framework/src/Volo.Abp.AspNetCore.Mvc.UI.Widgets",
     "framework/src/Volo.Abp.AspNetCore.Serilog",
+    "framework/src/Volo.Abp.AspNetCore.SignalR",
     "framework/src/Volo.Abp.AspNetCore.TestBase",
     "framework/src/Volo.Abp.Auditing",
     "framework/src/Volo.Abp.Authorization",
@@ -107,6 +108,7 @@ $projects = (
     "framework/src/Volo.Abp.UI",
     "framework/src/Volo.Abp.UI.Navigation",
     "framework/src/Volo.Abp.Uow",
+    "framework/src/Volo.Abp.Validation.Abstractions",
     "framework/src/Volo.Abp.Validation",
     "framework/src/Volo.Abp.VirtualFileSystem",
 
